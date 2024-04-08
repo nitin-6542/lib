@@ -1,4 +1,4 @@
 def hello()
 {
-bat "hello"
+echo "hello"
 }
