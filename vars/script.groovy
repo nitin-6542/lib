@@ -1,4 +1,4 @@
-def hello()
+def hex()
 {
-   println "hello"
+   echo "hello"
 }
