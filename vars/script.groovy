@@ -1,4 +1,4 @@
 def hello()
 {
-echo "hello"
+   println "hello"
 }
