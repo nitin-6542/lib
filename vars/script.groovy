@@ -1,4 +1,3 @@
-def hex(message)
-{
-   echo "hello"
+def hex() {
+   println("test")
 }
